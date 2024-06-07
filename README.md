@@ -1,5 +1,5 @@
 Things Used in the code:
 
-import random /n
+import random
 if - else
 while loop
