@@ -1,1 +1,5 @@
-Total number of python files (0)
+Things Used in the code:
+
+import random
+if - else
+while loop
