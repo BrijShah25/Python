@@ -1,5 +1,5 @@
 Things Used in the code:
 
-import random
+import random <br>
 if - else
 while loop
